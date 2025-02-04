@@ -25,7 +25,7 @@
 </ol>
 
 
-<h2 align="">:pager:Tecnologias utilizada:computer:</h2><br/><br/>
+<h2 align="center">:pager:Tecnologias utilizada:computer:</h2><br/><br/>
 
 
 ![b59a78e2ed76c705f3c0dcb300f3f222aefdcd99](https://github.com/user-attachments/assets/6da3f568-57a7-4a33-8c3a-3af81c803d07)
