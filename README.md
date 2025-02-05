@@ -15,12 +15,12 @@
     <li>Validação para impedir a inserção de nomes vazios.</li>
 </ul><br/>
 
-<h2 align="center">:mag:Instruções para o Sorteio de Nomes.</h2><br/>
+<h2 align="center">:mag:Instruções para descobrir o amigo secreto.</h2><br/>
 
 <ol>
     <li>Digite um nome no campo de entrada.</li>
-    <li>Clique no botão "Adicionar Nome" para inseri-lo na lista.</li>
-    <li>Quando houver nomes na lista, clique em "Sortear Nome" para escolher um aleatoriamente.</li>
+    <li>Clique no botão "Adicionar" para inseri-lo na lista.</li>
+    <li>Quando houver nomes na lista, clique em "Sortear amigo" para escolher um aleatoriamente.</li>
     <li>O nome sorteado será exibido na tela e a lista será limpa automaticamente.</li>
 </ol>
 
