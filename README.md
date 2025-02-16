@@ -2,7 +2,7 @@
 
 ![Captura de tela amigo secreto](https://github.com/user-attachments/assets/0c996815-44bb-4434-825c-c1ddfe0212e8)<br/>
 
-<p align="center">Este projeto é uma aplicação simples de sorteio de nomes que simula uma amigo secreto. Ele permite ao usuário adicionar nomes a uma lista e sortear um nome aleatório com um clique, limpando a lista após o sorteio.</p><br/>
+<p align="center">Este projeto é uma aplicação simples de sorteio de nomes que simula um amigo secreto. Ele permite ao usuário adicionar nomes a uma lista e sortear um nome aleatório com um clique, limpando a lista após o sorteio.</p><br/>
 
 
 <h2 align="center">:pushpin:Funcionalidades</h2><br/>
